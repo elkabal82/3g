@@ -11,6 +11,7 @@
         <meta charset="utf-8" >
         <meta name="author" content="Edgardo Torres Vanden Bouch"
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" href="css/index.css">
         <title>3Gs-México</title>
     </head>
     <body>
@@ -20,12 +21,13 @@
 				<a href="http://www.tresguerras.com.mx" target="_blanck">TRESGUERRAS</a>
 			</div>
 			<div class="Header1b">
-				<p>México ext: 1268 y 1290 -  <a href="mailto:torres@tresguerras.com.mx">torres@tresguerras.com.mx</a></p>
+                            <p>México ext: 1268 y 1290 -  <a href="mailto:torres@tresguerras.com.mx">torres@tresguerras.com.mx</a>
 			</div>
 		</div>
 		<div class="Header2">
 			<div class="Header2a">
-				<p>Información única para México</p>
+				<p>Información única para México <a href="#">Login</a></p> 
+                        
 			</div>
 			<div class="Header2b">
 				

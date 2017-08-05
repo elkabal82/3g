@@ -1,0 +1,121 @@
+.Img
+{
+	background-image: url('../img/actsa.png');
+	background-repeat:no-repeat;
+	height: 400px;
+	opacity: .13;
+	margin: 30px 0 0 0;
+
+}
+.Body
+{
+	margin-top: 50px;
+}
+.Bodya, .Bodyb
+{
+	width: 49%;
+	display: inline-block;
+}
+.Bodya
+{
+	padding-left: 5px;
+	text-align: center;
+}
+.Bodyb
+{
+	padding-left: 10px;
+	vertical-align: top;
+}
+
+.Bodyb p 
+{
+	padding-left: 10px;
+	font-weight: bold;
+}
+.Body-li
+{
+	display: inline-block;
+	
+}
+.Body-link
+{
+	color:#08C;
+	border-right: 1px solid red;
+	padding-right: 5px;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.Body-link1:hover
+{
+	text-decoration: underline;
+}
+.Body-link2:hover
+{
+	text-decoration: underline;
+}
+.Body-link3:hover
+{
+	text-decoration: underline;
+}
+.Body-ultimo:hover
+{
+	text-decoration: underline;
+}
+.Body-ultimo
+{
+	border: 0px;
+}
+.Header1
+{
+	font-size: 0;
+	text-align: center;
+	background-color: #EFEFEF;
+	margin: 5px;
+}
+.Header1a, .Header1b
+{
+	
+	display: inline-block;
+	width: 49%;
+	background-color: #EFEFEF;
+	font-size: 11px;
+	
+}	
+.Header1a
+{
+	font-weight: bold;
+	font-size: 16px;
+	text-align: left;
+	padding: 3px;
+	
+}
+.Header1b
+{
+	font-size: 11px;
+	text-align: right;
+}
+.Header1b p 
+{
+	height: 16px;
+	margin: 0px;
+}
+.Header2
+{
+	border-radius: 0 0 20px 20px;
+	margin: 5px;
+	box-shadow: 5px 5px 5px 5px #CCC;
+
+}
+.Header2a, .Header2b
+{
+
+}
+
+.Header2a p 
+{
+	color:#1975A3;
+	font-size: 20px;
+	padding: 10px 0 15px 0;	
+	margin: 0 0 0 30px ;
+}
